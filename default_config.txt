@@ -1,0 +1,2 @@
+vk: vk_user_id vk_token
+yandex: yandex_token
